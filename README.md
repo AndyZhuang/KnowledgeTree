@@ -1,5 +1,11 @@
+
+
 ## KnowledgeTree
-want to build a knowledge tree standard ,  so everyone can share and connect their tree
+Knowledge Tree (KT) is to build a knowledge standard , so everyone can share and connect their Mindmaps, Concept Structure etc.
+
+###Project Goal
+Project goal is to build a system that can replace the outdated IP and
+Academic system.
 
 ###Progress so far
     
@@ -7,5 +13,7 @@ want to build a knowledge tree standard ,  so everyone can share and connect the
 2. Have mental image of KT
 3. Basically, just begin this
     
+
+
 
 
