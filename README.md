@@ -14,6 +14,10 @@ Academic system.
 3. Basically, just begin this
     
 
+####Principles of KT
+1. All knowledge are equal
+2. All the users can update the tips of the tree.
+3. Experienced users can update the nodes of the tree
 
 
 
